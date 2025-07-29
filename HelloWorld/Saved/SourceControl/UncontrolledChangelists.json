@@ -6,9 +6,12 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/Git hub/UnrealProject/HelloWorld/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"D:/Git hub/UnrealProject/HelloWorld/Content/NewMap.umap",
 				"D:/Git hub/UnrealProject/HelloWorld/Content/Levels/L_Playground.umap",
-				"D:/Git hub/UnrealProject/HelloWorld/Content/BluePrints/BP_Player.uasset"
+				"D:/Git hub/UnrealProject/HelloWorld/Content/BluePrints/BP_Player.uasset",
+				"D:/Git hub/UnrealProject/HelloWorld/Content/BluePrints/BP_Parent.uasset",
+				"D:/Git hub/UnrealProject/HelloWorld/Content/BluePrints/BP_ChildPlayer.uasset",
+				"D:/Git hub/UnrealProject/HelloWorld/Content/BluePrints/BP_ChildEnemy.uasset",
+				"D:/Git hub/UnrealProject/HelloWorld/Content/NewMap.umap"
 			]
 		}
 	]
