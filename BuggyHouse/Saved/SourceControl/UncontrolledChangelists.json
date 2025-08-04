@@ -10,10 +10,6 @@
 				"D:/Git hub/UnrealProject/BuggyHouse/Content/Textures/T_Start_Bug1.uasset",
 				"D:/Git hub/UnrealProject/BuggyHouse/Content/Textures/T_Start_Bug2.uasset",
 				"D:/Git hub/UnrealProject/BuggyHouse/Content/Textures/T_Start_Bug3.uasset",
-				"D:/Git hub/UnrealProject/BuggyHouse/Content/Textures/SP_Start_BG.uasset",
-				"D:/Git hub/UnrealProject/BuggyHouse/Content/Textures/SP_Start_Bug1.uasset",
-				"D:/Git hub/UnrealProject/BuggyHouse/Content/Textures/SP_Start_Bug2.uasset",
-				"D:/Git hub/UnrealProject/BuggyHouse/Content/Textures/SP_Start_Bug3.uasset",
 				"D:/Git hub/UnrealProject/BuggyHouse/Content/Sprites/SP_Start_BG.uasset",
 				"D:/Git hub/UnrealProject/BuggyHouse/Content/Sprites/SP_Start_Bug1.uasset",
 				"D:/Git hub/UnrealProject/BuggyHouse/Content/Sprites/SP_Start_Bug2.uasset",
@@ -24,7 +20,12 @@
 				"D:/Git hub/UnrealProject/BuggyHouse/Content/Flipbooks/FB_Title_Bug.uasset",
 				"D:/Git hub/UnrealProject/BuggyHouse/Content/Levels/L_Stage.umap",
 				"D:/Git hub/UnrealProject/BuggyHouse/Content/Textures/Back1.uasset",
-				"D:/Git hub/UnrealProject/BuggyHouse/Content/Textures/Bug1.uasset"
+				"D:/Git hub/UnrealProject/BuggyHouse/Content/Textures/Bug1.uasset",
+				"D:/Git hub/UnrealProject/BuggyHouse/Content/BluePrints/BP_Bug1.uasset",
+				"D:/Git hub/UnrealProject/BuggyHouse/Content/Textures/SP_Start_BG.uasset",
+				"D:/Git hub/UnrealProject/BuggyHouse/Content/Textures/SP_Start_Bug1.uasset",
+				"D:/Git hub/UnrealProject/BuggyHouse/Content/Textures/SP_Start_Bug2.uasset",
+				"D:/Git hub/UnrealProject/BuggyHouse/Content/Textures/SP_Start_Bug3.uasset"
 			]
 		}
 	]
