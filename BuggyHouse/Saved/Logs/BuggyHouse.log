@@ -3227,3 +3227,68 @@ Script call stack:
 [2025.08.07-10.56.29:032][ 72]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
 [2025.08.07-10.56.29:038][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
 [2025.08.07-10.56.29:071][ 75]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2025.08.07-10.57.04:341][ 70]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.07-10.57.04:372][ 70]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/BP_GameMode] ([2] browsable assets)...
+[2025.08.07-10.57.04:372][ 70]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/BP_GameMode]
+[2025.08.07-10.57.04:372][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_GameMode" FILE="D:/Git hub/UnrealProject/BuggyHouse/Content/BluePrints/BP_GameMode.uasset" SILENT=true
+[2025.08.07-10.57.04:377][ 70]LogSavePackage: Moving output files for package: /Game/BluePrints/BP_GameMode
+[2025.08.07-10.57.04:377][ 70]LogSavePackage: Moving 'D:/Git hub/UnrealProject/BuggyHouse/Saved/BP_GameMode0CD7959049CD63DEB7628795295004F1.tmp' to 'D:/Git hub/UnrealProject/BuggyHouse/Content/BluePrints/BP_GameMode.uasset'
+[2025.08.07-10.57.04:387][ 70]LogFileHelpers: InternalPromptForCheckoutAndSave took 45.418 ms (total: 646.585 ms)
+[2025.08.07-10.57.04:425][ 70]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.07-10.57.04:425][ 70]LogContentValidation: Enabled validators:
+[2025.08.07-10.57.04:425][ 70]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.07-10.57.04:425][ 70]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.07-10.57.04:425][ 70]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.07-10.57.04:425][ 70]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.07-10.57.04:425][ 70]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.07-10.57.04:425][ 70]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.07-10.57.04:425][ 70]AssetCheck: /Game/BluePrints/BP_GameMode Validating asset
+[2025.08.07-10.57.04:856][119]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.07-10.57.04:890][119]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/BP_GameMode] ([2] browsable assets)...
+[2025.08.07-10.57.04:890][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/BP_GameMode]
+[2025.08.07-10.57.04:890][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_GameMode" FILE="D:/Git hub/UnrealProject/BuggyHouse/Content/BluePrints/BP_GameMode.uasset" SILENT=true
+[2025.08.07-10.57.04:894][119]LogSavePackage: Moving output files for package: /Game/BluePrints/BP_GameMode
+[2025.08.07-10.57.04:894][119]LogSavePackage: Moving 'D:/Git hub/UnrealProject/BuggyHouse/Saved/BP_GameMode47766A734F1745F78099B49CAC1992C4.tmp' to 'D:/Git hub/UnrealProject/BuggyHouse/Content/BluePrints/BP_GameMode.uasset'
+[2025.08.07-10.57.04:903][119]LogFileHelpers: InternalPromptForCheckoutAndSave took 46.375 ms (total: 692.960 ms)
+[2025.08.07-10.57.04:938][119]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.07-10.57.04:938][119]LogContentValidation: Enabled validators:
+[2025.08.07-10.57.04:938][119]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.07-10.57.04:938][119]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.07-10.57.04:938][119]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.07-10.57.04:938][119]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.07-10.57.04:938][119]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.07-10.57.04:938][119]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.07-10.57.04:938][119]AssetCheck: /Game/BluePrints/BP_GameMode Validating asset
+[2025.08.07-10.57.07:399][405]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.07-10.57.07:431][405]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/BP_GameMode] ([2] browsable assets)...
+[2025.08.07-10.57.07:431][405]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/BP_GameMode]
+[2025.08.07-10.57.07:431][405]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_GameMode" FILE="D:/Git hub/UnrealProject/BuggyHouse/Content/BluePrints/BP_GameMode.uasset" SILENT=true
+[2025.08.07-10.57.07:436][405]LogSavePackage: Moving output files for package: /Game/BluePrints/BP_GameMode
+[2025.08.07-10.57.07:437][405]LogSavePackage: Moving 'D:/Git hub/UnrealProject/BuggyHouse/Saved/BP_GameMode7C6AF90B4FD570BF95D8B3BA76FB7E25.tmp' to 'D:/Git hub/UnrealProject/BuggyHouse/Content/BluePrints/BP_GameMode.uasset'
+[2025.08.07-10.57.07:446][405]LogFileHelpers: InternalPromptForCheckoutAndSave took 47.071 ms (total: 740.032 ms)
+[2025.08.07-10.57.07:481][405]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.07-10.57.07:481][405]LogContentValidation: Enabled validators:
+[2025.08.07-10.57.07:481][405]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.07-10.57.07:481][405]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.07-10.57.07:481][405]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.07-10.57.07:481][405]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.07-10.57.07:481][405]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.07-10.57.07:481][405]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.07-10.57.07:481][405]AssetCheck: /Game/BluePrints/BP_GameMode Validating asset
+[2025.08.07-10.57.09:014][583]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.07-10.57.09:046][583]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrints/UI/WBP_Score] ([2] browsable assets)...
+[2025.08.07-10.57.09:047][583]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/BluePrints/UI/WBP_Score.WBP_Score]
+[2025.08.07-10.57.09:047][583]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/UI/WBP_Score]
+[2025.08.07-10.57.09:047][583]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/UI/WBP_Score" FILE="D:/Git hub/UnrealProject/BuggyHouse/Content/BluePrints/UI/WBP_Score.uasset" SILENT=true
+[2025.08.07-10.57.09:052][583]LogSavePackage: Moving output files for package: /Game/BluePrints/UI/WBP_Score
+[2025.08.07-10.57.09:052][583]LogSavePackage: Moving 'D:/Git hub/UnrealProject/BuggyHouse/Saved/WBP_Score92332F194AA8FF955F31DDAA36A4F226.tmp' to 'D:/Git hub/UnrealProject/BuggyHouse/Content/BluePrints/UI/WBP_Score.uasset'
+[2025.08.07-10.57.09:063][583]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.669 ms (total: 788.701 ms)
+[2025.08.07-10.57.09:101][583]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.07-10.57.09:101][583]LogContentValidation: Enabled validators:
+[2025.08.07-10.57.09:101][583]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.07-10.57.09:101][583]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.07-10.57.09:101][583]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.07-10.57.09:101][583]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.07-10.57.09:101][583]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.07-10.57.09:101][583]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.07-10.57.09:101][583]AssetCheck: /Game/BluePrints/UI/WBP_Score Validating asset
