@@ -9,7 +9,11 @@
 				"D:/Git hub/UnrealProject/Pong/Content/Input/IMC_Pong.uasset",
 				"D:/Git hub/UnrealProject/Pong/Content/BluePrints/BP_PongGameMode.uasset",
 				"D:/Git hub/UnrealProject/Pong/Content/BluePrints/BP_Player.uasset",
-				"D:/Git hub/UnrealProject/Pong/Content/Input/Actions/IA_Move.uasset"
+				"D:/Git hub/UnrealProject/Pong/Content/Input/Actions/IA_Move.uasset",
+				"D:/Git hub/UnrealProject/Pong/Content/Materials/M_Base.uasset",
+				"D:/Git hub/UnrealProject/Pong/Content/BluePrints/BP_Ball.uasset",
+				"D:/Git hub/UnrealProject/Pong/Content/BluePrints/BP_Enemy.uasset",
+				"D:/Git hub/UnrealProject/Pong/Content/Data/FBounceInfo.uasset"
 			]
 		}
 	]
