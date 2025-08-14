@@ -13,7 +13,8 @@
 				"D:/Git hub/UnrealProject/Pong/Content/Materials/M_Base.uasset",
 				"D:/Git hub/UnrealProject/Pong/Content/BluePrints/BP_Ball.uasset",
 				"D:/Git hub/UnrealProject/Pong/Content/BluePrints/BP_Enemy.uasset",
-				"D:/Git hub/UnrealProject/Pong/Content/Data/FBounceInfo.uasset"
+				"D:/Git hub/UnrealProject/Pong/Content/Data/FBounceInfo.uasset",
+				"D:/Git hub/UnrealProject/Pong/Content/BluePrints/BP_GoalTrigger.uasset"
 			]
 		}
 	]
