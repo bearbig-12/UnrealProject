@@ -14,7 +14,16 @@
 				"D:/Git hub/UnrealProject/Pong/Content/BluePrints/BP_Ball.uasset",
 				"D:/Git hub/UnrealProject/Pong/Content/BluePrints/BP_Enemy.uasset",
 				"D:/Git hub/UnrealProject/Pong/Content/Data/FBounceInfo.uasset",
-				"D:/Git hub/UnrealProject/Pong/Content/BluePrints/BP_GoalTrigger.uasset"
+				"D:/Git hub/UnrealProject/Pong/Content/BluePrints/BP_GoalTrigger.uasset",
+				"D:/Git hub/UnrealProject/Pong/Content/Audio/SW_Wall.uasset",
+				"D:/Git hub/UnrealProject/Pong/Content/Audio/SW_Score.uasset",
+				"D:/Git hub/UnrealProject/Pong/Content/Audio/SW_Paddle.uasset",
+				"D:/Git hub/UnrealProject/Pong/Content/Audios/SW_Wall.uasset",
+				"D:/Git hub/UnrealProject/Pong/Content/Audios/SW_Paddle.uasset",
+				"D:/Git hub/UnrealProject/Pong/Content/Audios/SW_Score.uasset",
+				"D:/Git hub/UnrealProject/Pong/Content/BluePrints/UI/WBP_HUD.uasset",
+				"D:/Git hub/UnrealProject/Pong/Content/Fonts/PressStart2P-Regular.uasset",
+				"D:/Git hub/UnrealProject/Pong/Content/Fonts/PressStart2P-Regular_Font.uasset"
 			]
 		}
 	]
