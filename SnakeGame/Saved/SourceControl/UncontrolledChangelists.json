@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Git hub/UnrealProject/SnakeGame/Content/Levels/L_Game.umap",
+				"D:/Git hub/UnrealProject/SnakeGame/Content/Input/Actions/IA_Move.uasset",
+				"D:/Git hub/UnrealProject/SnakeGame/Content/Input/IMC_SnakeGame.uasset",
+				"D:/Git hub/UnrealProject/SnakeGame/Content/L_Game.umap",
+				"D:/Git hub/UnrealProject/SnakeGame/Content/Blueprints/BP_GameMode.uasset",
+				"D:/Git hub/UnrealProject/SnakeGame/Content/Blueprints/BP_Player.uasset",
+				"D:/Git hub/UnrealProject/SnakeGame/Content/Materials/M_Base.uasset",
+				"D:/Git hub/UnrealProject/SnakeGame/Content/Materials/MI_Wall.uasset",
+				"D:/Git hub/UnrealProject/SnakeGame/Content/Materials/MI_SnakeHead.uasset",
+				"D:/Git hub/UnrealProject/SnakeGame/Content/Materials/MI_SnakeTail.uasset",
+				"D:/Git hub/UnrealProject/SnakeGame/Content/Materials/MI_Fruit.uasset",
+				"D:/Git hub/UnrealProject/SnakeGame/Content/Blueprints/BP_Fruit.uasset"
+			]
+		}
+	]
+}
