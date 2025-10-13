@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Git hub/UnrealProject/ShaderMaterial/Content/Levels/ShaderExample.umap",
+				"D:/Git hub/UnrealProject/ShaderMaterial/Content/Materials/M_Sample.uasset",
+				"D:/Git hub/UnrealProject/ShaderMaterial/Content/Textures/FB624FC2-FA3E-44F3-A3C0-1DE3B897E2B1.uasset"
+			]
+		}
+	]
+}
