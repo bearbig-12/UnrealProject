@@ -16,7 +16,12 @@
 				"D:/Git hub/UnrealProject/SnakeGame/Content/Materials/MI_SnakeHead.uasset",
 				"D:/Git hub/UnrealProject/SnakeGame/Content/Materials/MI_SnakeTail.uasset",
 				"D:/Git hub/UnrealProject/SnakeGame/Content/Materials/MI_Fruit.uasset",
-				"D:/Git hub/UnrealProject/SnakeGame/Content/Blueprints/BP_Fruit.uasset"
+				"D:/Git hub/UnrealProject/SnakeGame/Content/Blueprints/BP_Fruit.uasset",
+				"D:/Git hub/UnrealProject/SnakeGame/Content/Blueprints/FunctionLibrary/BPFL_Utility.uasset",
+				"D:/Git hub/UnrealProject/SnakeGame/Content/Blueprints/BP_Tail.uasset",
+				"D:/Git hub/UnrealProject/SnakeGame/Content/Fonts/PressStart2P-Regular.uasset",
+				"D:/Git hub/UnrealProject/SnakeGame/Content/Fonts/PressStart2P-Regular_Font.uasset",
+				"D:/Git hub/UnrealProject/SnakeGame/Content/UI/WBP_HUD.uasset"
 			]
 		}
 	]
