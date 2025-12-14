@@ -4,13 +4,13 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/GameModeBase.h"
-#include "SLGameMode.generated.h"
+#include "SLGameModeBase.generated.h"
 
 /**
  * 
  */
 UCLASS()
-class SLGAME_API ASLGameMode : public AGameModeBase
+class SLGAME_API ASLGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
 	

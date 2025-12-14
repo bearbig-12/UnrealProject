@@ -7,13 +7,16 @@ public class SLGame : ModuleRules
 	public SLGame(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
-	
-		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "EnhancedInput" });
 
-		// 하위 폴더까지 인식하도록 설정
-		PublicIncludePaths.AddRange(new string[] {"SLGame"});
+		PublicIncludePaths.AddRange(
+			new string[] {
+                "SLGame"
+            }
+			);
 
-        PrivateDependencyModuleNames.AddRange(new string[] {  });
+        PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "EnhancedInput" });
+
+		PrivateDependencyModuleNames.AddRange(new string[] {  });
 
 		// Uncomment if you are using Slate UI
 		// PrivateDependencyModuleNames.AddRange(new string[] { "Slate", "SlateCore" });
