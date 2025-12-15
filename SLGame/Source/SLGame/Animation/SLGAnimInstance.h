@@ -7,6 +7,8 @@
 #include "SLGAnimInstance.generated.h"
 
 class UCharacterMovementComponent;
+class ACharacter;
+
 
 /**
  * 
